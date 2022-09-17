@@ -1,0 +1,9 @@
+dotnet new webapi
+
+dotnet new gitignore
+
+dotnet run
+
+dotnet watch
+
+clear
